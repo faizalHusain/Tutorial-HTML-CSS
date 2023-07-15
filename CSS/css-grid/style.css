@@ -1,0 +1,19 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 100px);
+  grid-template-rows: 100px 100px;
+  grid-auto-flow: column;
+  column-gap: 10px;
+  row-gap: 10px;
+  /* gap: 10px; */
+}
+
+.item {
+  background-color: coral;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 24px;
+  font-weight: bold;
+}

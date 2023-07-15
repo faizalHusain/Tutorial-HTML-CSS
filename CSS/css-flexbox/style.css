@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  align-content: flex-start;
+  flex-wrap: wrap;
+  width: 800px;
+  height: 1200px;
+  border: 1px solid #ccc;
+}
+
+.box {
+  margin: 10px;
+  background-color: coral;
+}
+.one {
+  width: 100px;
+  height: 100px;
+}
+.two {
+  width: 200px;
+  height: 200px;
+}
+.three {
+  width: 300px;
+  height: 300px;
+}

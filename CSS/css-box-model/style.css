@@ -1,0 +1,13 @@
+.header {
+  width: 200px;
+  height: 200px;
+  padding-left: 30px;
+  margin-left: 100px;
+  background-color: aqua;
+}
+.header a {
+  background-color: red;
+}
+.hero-section {
+  background-color: blueviolet;
+}

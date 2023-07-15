@@ -1,0 +1,11 @@
+.header {
+  background-color: aqua;
+}
+.header a {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+.hero-section {
+  background-color: blueviolet;
+}
